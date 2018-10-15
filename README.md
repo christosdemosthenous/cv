@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/christosdemosthenous/cv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Όνομα:Χρίστος
+## Επίθετο:Δημοσθένους
+## Ημερομηνία Γέννησης:18/07/1997
+## Τόπος Kαταγωγής: Αμμόχωστος
+## Ηλεκτρονικό Ταχυδρομείο: christos97dem@gmail.com
+
 
 ### Markdown
 
